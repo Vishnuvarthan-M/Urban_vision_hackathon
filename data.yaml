@@ -1,0 +1,21 @@
+path: D:/final/urban_dataset_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Hatchback
+  1: Sedan
+  2: SUV
+  3: MUV
+  4: Bus
+  5: Truck
+  6: Three-wheeler
+  7: Two-wheeler
+  8: LCV
+  9: Mini-bus
+  10: Mini-truck
+  11: tempo-traveller
+  12: bicycle
+  13: Van
+  14: Others
